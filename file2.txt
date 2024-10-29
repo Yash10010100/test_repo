@@ -1,4 +1,4 @@
 This is my second file for Git Course.
 More content in file 2.
 
-If there is any empty folder , git does not track them. But if you want them to being ttracked by git, then you should make a ".gitkeep" file in that empty folder, so that git keeps trackingthem even if they are empty.
+If there is any empty folder , git does not track them. But if you want them to being ttracked by git, then you should make a ".gitkeep" file in that empty folder, so that git keeps tracking them even if they are empty.
