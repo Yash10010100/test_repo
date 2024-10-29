@@ -1,2 +1,5 @@
 I am a file for fixing bugs.
 bugs solved : 1
+
+fix another bugs.
+bugs solved : 3
