@@ -3,3 +3,5 @@ another file.
 changes by master.
 
 few more changes by master.
+
+changes by bug fix.
